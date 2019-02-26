@@ -3,3 +3,4 @@ config:
   age: 29
   email: yanming_work@163.com
   version: dev
+message: Hello Config !
