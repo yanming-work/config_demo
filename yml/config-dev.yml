@@ -1,4 +1,5 @@
 config:
   name: Yan Ming
   age: 29
+  email: yanming_work@163.com
   version: dev
