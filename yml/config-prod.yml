@@ -1,4 +1,5 @@
 config:
   name: Gavin.Yan
   age: 29
+  email: yanming_work@163.com
   version: prod
